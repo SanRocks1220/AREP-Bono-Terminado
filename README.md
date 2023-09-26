@@ -38,11 +38,15 @@ Para usar este proyecto, siga estos pasos:
 ![image](https://github.com/SanRocks1220/AREP-Bono/assets/99696682/1e51785d-b7ce-43bd-ba3c-835aa59650cb)
 
 ### Docker
-![image](https://github.com/SanRocks1220/AREP-Bono/assets/99696682/35ce00ab-ea3a-4f5d-bede-6cb6aba1f666)
+![image](https://github.com/SanRocks1220/AREP-Bono-Terminado/assets/99696682/608f08b9-fa69-4922-a223-18a65120cd16)
+
 
 
 ## Autor
 - [Santiago Andres Rocha C.](https://github.com/SanRocks1220)
+
+## Colaboradores
+- [David Valencia](https://github.com/DavidVal6)
 
 
 
