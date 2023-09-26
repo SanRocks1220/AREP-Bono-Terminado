@@ -40,6 +40,8 @@ Para usar este proyecto, siga estos pasos:
 ### Docker
 ![image](https://github.com/SanRocks1220/AREP-Bono-Terminado/assets/99696682/608f08b9-fa69-4922-a223-18a65120cd16)
 
+Link a Docker: `https://hub.docker.com/repository/docker/sanrocks12/virtualizacion_completa/general`
+
 
 
 ## Autor
