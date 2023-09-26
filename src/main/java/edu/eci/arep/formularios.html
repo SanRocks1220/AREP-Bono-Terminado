@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formularios GET</title>
+    <meta charset="ISO-8859-1">
+</head>
+<body>
+    <h1>Formulario para /hello</h1>
+    <form action="/hello" method="get">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Formulario para /sin</h1>
+    <form action="/sin" method="get">
+        <label for="number">Numero:</label>
+        <input type="text" name="number" id="number" required>
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Formulario para /cos</h1>
+    <form action="/cos" method="get">
+        <label for="number">Numero:</label>
+        <input type="text" name="number" id="number" required>
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Formulario para /palindrome</h1>
+    <form action="/palindrome" method="get">
+        <label for="word">Palabra:</label>
+        <input type="text" name="word" id="word" required>
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Formulario para /magnitude</h1>
+    <form action="/magnitude" method="get">
+        <label for="int1">Entero 1:</label>
+        <input type="text" name="int1" id="int1" required>
+        <label for="int2">Entero 2:</label>
+        <input type="text" name="int2" id="int2" required>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
