@@ -14,7 +14,7 @@ public class SparkWebServer {
             try {
                 res.type("text/html");
                 StringBuilder content = new StringBuilder();
-                BufferedReader br = new BufferedReader(new FileReader("src\\main\\java\\co\\edu\\escuelaing\\arep\\formularios.html"));
+                BufferedReader br = new BufferedReader(new FileReader("src\\main\\java\\edu\\eci\\arep\\formularios.html"));
                 String line;
                 while ((line = br.readLine()) != null) {
                     content.append(line);
